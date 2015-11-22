@@ -1,6 +1,7 @@
 ## makeCacheMatrix and cacheSolve work in tandem to store a matrix and its inverse.
 ## The inverse of the matrix can therefore be called repeatedly without having
 ## to recompute the matrix's inverse each time.
+##
 ## Note: This code has been tested on several matrices and returns the correct
 ## inverse if one exists, and returns the appropriate error
 ## when the matrix is singular and cannot be inverted.
